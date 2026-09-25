@@ -77,7 +77,7 @@ This portfolio highlights my projects, internships, technical skills, certificat
 
 * GitHub: https://github.com/JANGAMBALACHANDRAMOHANREDDY
 * LinkedIn: https://www.linkedin.com/in/jangam-balachandramohanreddy
-* Portfolio: [https://jangam-balachandra-mohan-reddy.lovable.app](https://jangam-balachandra-mohan-reddy.lovable.app)
+* Portfolio: https://jangam-bala-chandramohan-reddy.lovable.app/
 
 ## ⭐ Repository
 
