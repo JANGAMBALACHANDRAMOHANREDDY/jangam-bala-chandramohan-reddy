@@ -6,7 +6,7 @@ This portfolio highlights my projects, internships, technical skills, certificat
 
 ## 🌐 Live Portfolio
 
-**Website:** https://jangam-balachandra-mohan-reddy.lovable.app
+**Website:**[ https://jangam-balachandra-mohan-reddy.lovable.app](https://jangam-bala-chandramohan-reddy.lovable.app/)
 
 ## ✨ Features
 
