@@ -45,7 +45,7 @@ const Hero = () => {
                 alt="Jangam Bala Chandra Mohan Reddy — Full Stack and AI Engineer"
                 width={352}
                 height={352}
-                className="h-full w-full scale-125 object-cover object-top"
+                className="h-full w-full object-cover"
               />
             </div>
           </div>
