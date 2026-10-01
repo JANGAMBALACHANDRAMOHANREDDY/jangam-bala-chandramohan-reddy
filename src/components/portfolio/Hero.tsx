@@ -4,7 +4,7 @@ import { Download, Eye, Github, Linkedin, Mail, ArrowDown, ArrowUpRight, Sparkle
 import { Button } from "@/components/ui/button";
 import ResumeViewer from "./ResumeViewer";
 import { PROFILE, ROLES, RESUME_URL } from "@/data/portfolio";
-import profileAsset from "@/assets/profile-photo.jpg.asset.json";
+import profileAsset from "@/assets/profile-headshot.jpg.asset.json";
 
 const scrollToSection = (id: string) =>
   document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
@@ -45,7 +45,7 @@ const Hero = () => {
                 alt="Jangam Bala Chandra Mohan Reddy — Full Stack and AI Engineer"
                 width={352}
                 height={352}
-                className="h-full w-full scale-125 object-cover object-top"
+                className="h-full w-full object-cover"
               />
             </div>
           </div>

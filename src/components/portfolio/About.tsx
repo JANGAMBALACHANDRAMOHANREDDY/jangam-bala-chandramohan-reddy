@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { GraduationCap, Cpu, Briefcase, FolderGit2, Trophy, Target } from "lucide-react";
 import { Section, SectionHeader, Reveal } from "./Section";
 import { ABOUT_CARDS, ABOUT_STATS } from "@/data/portfolio";
-import profileAsset from "@/assets/profile-photo.jpg.asset.json";
+import profileAsset from "@/assets/profile-photo-full.jpg.asset.json";
 
 const ICONS = { GraduationCap, Cpu, Briefcase, FolderGit2, Trophy, Target } as const;
 
