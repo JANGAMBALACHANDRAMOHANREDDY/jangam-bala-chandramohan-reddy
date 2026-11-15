@@ -184,12 +184,15 @@ const Projects = () => {
       <div className="mx-auto mt-24 max-w-6xl">
         <h3 className="mb-8 text-center text-2xl font-semibold">More Work</h3>
         <Tabs defaultValue="Data Analysis" className="w-full">
-          <TabsList className="mx-auto mb-8 grid w-full max-w-md grid-cols-2 rounded-full border border-border bg-white/[0.04] p-1">
+          <TabsList className="mx-auto mb-8 grid w-full max-w-md grid-cols-3 rounded-full border border-border bg-white/[0.04] p-1">
             <TabsTrigger value="Data Analysis" className="rounded-full">
               Data Analysis
             </TabsTrigger>
             <TabsTrigger value="AI & Machine Learning" className="rounded-full">
               AI & ML
+            </TabsTrigger>
+            <TabsTrigger value="Full Stack" className="rounded-full">
+              Full Stack
             </TabsTrigger>
           </TabsList>
 

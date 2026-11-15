@@ -59,7 +59,7 @@ export const ABOUT_CARDS = [
   {
     icon: "Briefcase",
     title: "Internship",
-    body: "Full Stack Developer Intern at AVAINTERN, Visakhapatnam — building responsive React apps, backend APIs, authentication and production-ready features.",
+    body: "Completed a Full Stack Developer internship at AVAINTERN, Visakhapatnam — building responsive React apps, backend APIs, authentication and production-ready features.",
   },
   {
     icon: "FolderGit2",
@@ -244,17 +244,54 @@ export const OTHER_PROJECTS: Record<
       link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/Text-to-Image-Generator.git",
     },
   ],
+  "Full Stack": [
+    {
+      title: "ResolveAI Enterprise",
+      description:
+        "AI-assisted IT service management platform for support tickets, knowledge assistance, team workflows, SLA monitoring and analytics, with human-reviewed recommendations.",
+      tags: ["React", "TypeScript", "FastAPI", "PostgreSQL", "AI"],
+      link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/Resolve.ai--companies",
+    },
+    {
+      title: "EduPredict AI",
+      description:
+        "Student success platform using synthetic data to identify academic risk, explain contributing factors and help mentors plan learning support.",
+      tags: ["React", "TypeScript", "FastAPI", "Machine Learning", "SHAP"],
+      link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/Edtech-prediction-synthetic-data-",
+    },
+    {
+      title: "WorkNest",
+      description:
+        "Employee workspace prototype that brings everyday workplace activities and team workflows together in one centralized interface.",
+      tags: ["TypeScript", "JavaScript", "Hono", "Node.js", "Vite"],
+      link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/WorkNest-Prototype",
+    },
+    {
+      title: "Employee Attendance & Analytics API",
+      description:
+        "FastAPI service for attendance tracking, attendance regularization and workforce analytics, including department summaries and daily trends.",
+      tags: ["Python", "FastAPI", "MongoDB", "REST API", "Analytics"],
+      link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/hrone-sdt-candidate-kit",
+    },
+    {
+      title: "AI Assessment Creator",
+      description:
+        "Platform for teachers to create assignments and generate structured AI exam papers, with real-time status updates.",
+      tags: ["Next.js", "TypeScript", "Node.js", "MongoDB", "AI"],
+      link: "https://github.com/JANGAMBALACHANDRAMOHANREDDY/Vedaai-assignment",
+    },
+  ],
 };
 
 export const INTERNSHIP = {
   role: "Full Stack Developer Intern",
   company: "AVAINTERN",
-  duration: "July 2026 – Present",
+  duration: "July 2026 – August 2026",
   location: "Visakhapatnam, Andhra Pradesh, India",
   mode: "On-site",
-  status: "Present",
+  status: "Completed",
   summary:
-    "Currently working as a Full Stack Developer Intern at AVAINTERN, contributing to modern web applications using React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL and REST APIs. Responsibilities include frontend development, backend API integration, database operations, debugging, feature development, Git collaboration and building production-ready applications.",
+    "Completed a Full Stack Developer internship at AVAINTERN, contributing to modern web applications using React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL and REST APIs. Responsibilities included frontend development, backend API integration, database operations, debugging, feature development, Git collaboration and building production-ready applications.",
   responsibilities: [
     "Frontend development with React & TypeScript",
     "Backend API development and integration",

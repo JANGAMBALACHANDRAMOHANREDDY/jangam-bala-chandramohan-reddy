@@ -10,7 +10,7 @@ const Internship = () => (
       eyebrow="Experience"
       title="Professional"
       highlight="Experience"
-      subtitle="Current internship role, responsibilities and the stack I ship with."
+      subtitle="Completed internship role, responsibilities and the stack I worked with."
     />
 
     <div className="relative mx-auto max-w-4xl">
